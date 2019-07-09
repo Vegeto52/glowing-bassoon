@@ -1,0 +1,13 @@
+h1{
+	color:purple ;
+	background-color:blue ;
+	font-family:fantasy ;
+}
+body{
+	background-color:black ;
+}
+p{
+	font-family:sans-serif;
+	font-style:italic; 
+	color: yellow;
+}
